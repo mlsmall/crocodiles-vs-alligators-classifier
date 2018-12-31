@@ -6,4 +6,4 @@ The Convolutional Neural Network (CNN) architecture used was Resnet-34, which co
 
 You can test it yourself in a web application I created here: https://croc-or-alli.herokuapp.com/. Just upload a picture of an alligator or a crocodile and the algorithm will give you its prediction along with its confidence value.
 
-<img src="https://github.com/mlsmall/crocodiles-vs-alligators-classifier/blob/master/crocs.png" width="625" />
+<img src="https://github.com/mlsmall/crocodiles-vs-alligators-classifier/blob/master/crocs.png" width="550" />
